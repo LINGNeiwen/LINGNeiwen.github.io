@@ -14,17 +14,17 @@
   • development of FPGA，Arduino uno，51 SCM，STM32F1，STM32F4
   • programming language like: C Language, Verilog HDL
  
-## STANDARD TESTS  
-   IELTS overall:6.5  (Reading: 8.5   Listening: 6.0   Speaking: 5.5  Writing: 5.5  )   
+### STANDARD TESTS  
+   IELTS overall:6.5  (Reading: 8.5   Listening: 6.0   Speaking: 5.5  Writing: 5.5)   
    Test Date: 23/12/2016  
   
-## SCHOLARSHIP & ACTIVITIES  
+### SCHOLARSHIP & ACTIVITIES  
 • First-class scholarship of Northwestern Polytechnical University                  09/2016
 • First-class scholarship of School of Marine Science and Technology, NWPU          09/2015
 • Deputy Secretary of Study Department, NWPU Student Union                          09/2015-07/2016 
 • Team leader of the Technology Group of Lenovo Idea Elite Club                     08/2015-03/2016
 
-## COMPETITIONS & HONORS 
+### COMPETITIONS & HONORS 
 • Position Paper award in Northwest Model United Nations Conference                      05/2015
 • second place in 5th Northwestern Polytechnical University Elite Debate Race            05/2015
 • Honorable Mentioned of BLCUMUN Conference                                              03/2016                                       
