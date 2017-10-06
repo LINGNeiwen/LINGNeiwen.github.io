@@ -10,9 +10,7 @@
 ### PROFESSIONAL SKILLS
   • programming software like: Matlab，CodeBlocks 
   • circuit design software like: Multisim，Altium Designer
-  • embedded development software like: Quartus II，Arduino IDE，Keil
-  • development of FPGA，Arduino uno，51 SCM，STM32F1，STM32F4
-  • programming language like: C Language, Verilog HDL
+ 
  
 ### STANDARD TESTS  
    IELTS overall:6.5  (Reading: 8.5   Listening: 6.0   Speaking: 5.5  Writing: 5.5)   
