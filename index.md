@@ -1,7 +1,10 @@
-##   EDUCATION 
+##   LING Neiwen
 
-  • Northwestern Polytechnical University (“985” and “211” project)                         09/2014-07/2018                             
-  • Major: Electronics and Information Engineering（four-year，full-time, Bachelor’s Degree）                            
+### EDUCATION
+  • Northwestern Polytechnical University (“985” and “211” project)                         
+    09/2014-07/2018                             
+  • Major: Electronics and Information Engineering
+   （four-year，full-time, Bachelor’s Degree）                            
   • Average Score: 87.93%
 
 ### Markdown
