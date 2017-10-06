@@ -1,13 +1,13 @@
 # LING Neiwen
 
-## EDUCATION
+### EDUCATION
   • Northwestern Polytechnical University (“985” and “211” project)                         
     09/2014-07/2018                             
   • Major: Electronics and Information Engineering
    （four-year，full-time, Bachelor’s Degree）                            
   • Average Score: 87.93%
   
-## PROFESSIONAL SKILLS
+### PROFESSIONAL SKILLS
  • programming software like: Matlab，CodeBlocks 
  • circuit design software like: Multisim，Altium Designer
  • embedded development software like: Quartus II，Arduino IDE，Keil
