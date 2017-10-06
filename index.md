@@ -1,6 +1,6 @@
-##   LING Neiwen
+#  LING Neiwen
 
-### EDUCATION
+## EDUCATION
   • Northwestern Polytechnical University (“985” and “211” project)                         
     09/2014-07/2018                             
   • Major: Electronics and Information Engineering
