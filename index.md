@@ -1,4 +1,4 @@
-#  LING Neiwen
+LING Neiwen
 
 ## EDUCATION
   • Northwestern Polytechnical University (“985” and “211” project)                         
