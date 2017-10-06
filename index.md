@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## EDUCATION 
 
-You can use the [editor on GitHub](https://github.com/LINGNeiwen/LINGNeiwen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+• Northwestern Polytechnical University (“985” and “211” project)                         09/2014-07/2018                                • Major: Electronics and Information Engineering（four-year，full-time, Bachelor’s Degree）                            
+• Average Score: 87.93%
 
 ### Markdown
 
